@@ -1,0 +1,10 @@
+C:\Users\bjorn\documents\visual studio 2015\Projects\Soundboard\Soundboard\bin\Release\Soundboard.exe.config
+C:\Users\bjorn\documents\visual studio 2015\Projects\Soundboard\Soundboard\obj\Release\Interop.WMPLib.dll
+C:\Users\bjorn\documents\visual studio 2015\Projects\Soundboard\Soundboard\obj\Release\Soundboard.csproj.ResolveComReference.cache
+C:\Users\bjorn\documents\visual studio 2015\Projects\Soundboard\Soundboard\bin\Release\Soundboard.exe
+C:\Users\bjorn\documents\visual studio 2015\Projects\Soundboard\Soundboard\bin\Release\Soundboard.pdb
+C:\Users\bjorn\documents\visual studio 2015\Projects\Soundboard\Soundboard\obj\Release\Soundboard.Form1.resources
+C:\Users\bjorn\documents\visual studio 2015\Projects\Soundboard\Soundboard\obj\Release\Soundboard.Properties.Resources.resources
+C:\Users\bjorn\documents\visual studio 2015\Projects\Soundboard\Soundboard\obj\Release\Soundboard.csproj.GenerateResource.Cache
+C:\Users\bjorn\documents\visual studio 2015\Projects\Soundboard\Soundboard\obj\Release\Soundboard.exe
+C:\Users\bjorn\documents\visual studio 2015\Projects\Soundboard\Soundboard\obj\Release\Soundboard.pdb
